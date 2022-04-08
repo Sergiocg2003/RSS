@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" >
+    <channel>
+        <title><![CDATA[Noticias Guerra Ucrania y Rusia]]></title>
+        <link>http://github.com/dylang/node-rss</link>
+        <description><![CDATA[RSS sobre noticias de la Guerra de Ucrania y Rusia]]></description>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 08 Apr 2022 18:00:47 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[El origen del conflicto entre Rusia y Ucrania]]></title>
+            <description><![CDATA[ Los recientes movimientos despiertan el fantasma de la Guerra Fría. El trasfondo de esta crisis es la negativa rusa a aceptar el acercamiento de la OTAN y de la Unión Europea a la antigua república soviética, a la que Moscú considera parte de su identidad y de su espacio de influencia, y cuyo control juzga vital para su seguridad. Putin cree que ambos países conforman “un solo pueblo”.]]></description>
+            <guid isPermaLink="false">El origen del conflicto entre Rusia y Ucrania</guid>
+            <dc:creator><![CDATA[El país]]></dc:creator>
+            <pubDate>Tue, 01 Mar 2022 23:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rusia admite pérdidas significativas de tropas]]></title>
+            <description><![CDATA[El Kremlin ha reconocido por primera vez una pérdida de fuerzas mayor de la esperada en la invasión de Ucrania. Pero no conviene confiarse, porque los servicios de inteligencia occidentales ven en este gesto una estrategia para incrementar el apoyo popular al conflicto y anticipan una nueva gran ofensiva rusa terrestre a no mucho tardar.]]></description>
+            <guid isPermaLink="false">Rusia admite pérdidas significativas de tropas</guid>
+            <dc:creator><![CDATA[AMAYA LARRAÑETA]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 17:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ucrania asegura que Rusia está ultimando la “gran batalla” por Donetsk y Lugansk]]></title>
+            <description><![CDATA[Ucrania entra en el día 44 de guerra mientras se prepara para una nueva ofensiva rusa en el frente oriental. Las tropas del Kremlin se han retirado ya de los alrededores de Kiev para reagruparse e intensificar sus ataques en la región de Donbás, la región que se quiere anexionar a Moscú. El asesor presidencial ucraniano, Oleksiy Arestovych, dijo que la situada ciudad portuaria de Mariupol está resistiendo y que los esfuerzos rusos para rodear a las tropas ucranianas en el este del país serán en vano.]]></description>
+            <guid isPermaLink="false">Ucrania asegura que Rusia está ultimando la “gran batalla” por Donetsk y Lugansk</guid>
+            <dc:creator><![CDATA[Marcos Pardeiro]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 17:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miles de rusos abandonan su patria desde el inicio de la guerra: “El país es como un gigantesco barco que se hunde”]]></title>
+            <description><![CDATA[ Ligeros de equipaje pero cargados de ideales, dejan atrás sus hogares sin saber cuándo podrán regresar a un país que niega la guerra en Ucrania para definirla como una “operación militar especial” y que castiga con hasta 15 años de cárcel a quien no se pliega a la propaganda del Kremlin.]]></description>
+            <guid isPermaLink="false">Miles de rusos abandonan su patria desde el inicio de la guerra: “El país es como un gigantesco barco que se hunde”</guid>
+            <dc:creator><![CDATA[África Albalá]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 17:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decenas de muertos tras un bombardeo ruso contra una estación de tren.]]></title>
+            <description><![CDATA[Según el último parte de guerra emitido por el Alto Estado Mayor del Ejército ucraniano, este viernes las tropas del Kremlin han bombardeado una estación de tren en la ciudad de Kramatorsk, que ha provocado al menos 40 muertos, incluidos cuatro niños, y 87 heridos, mientras se estaba produciendo una evacuación.]]></description>
+            <guid isPermaLink="false">Decenas de muertos tras un bombardeo ruso contra una estación de tren.</guid>
+            <dc:creator><![CDATA[El Confidencial]]></dc:creator>
+            <pubDate>Fri, 08 Apr 2022 17:50:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
